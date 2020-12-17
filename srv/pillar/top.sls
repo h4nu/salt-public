@@ -2,7 +2,6 @@ base:
   '*':
     - default 
     - snmp
-    - monitor
     - saltmine
     - nrpe
   'nagios*':
