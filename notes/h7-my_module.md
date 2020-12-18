@@ -1,17 +1,14 @@
 # Configuration Management Systems - ict4tn022-3010
 
-
 Exercises in the course:  
-[h1 hello master-slave](https://hanu.org/ict4tn022-3010/h1-hello-master-slave.html)  
-[h2 package file-server](https://hanu.org/ict4tn022-3010/h2_package_file-server.html)  
-[h3 version control](https://hanu.org/ict4tn022-3010/h3-versionhallinta.html)  
-[h4 timeline](https://hanu.org/ict4tn022-3010/h4-timeline.html)  
-[h5 new command](https://hanu.org/ict4tn022-3010/h5-new-command.html)  
-[h6 moottorix](https://hanu.org/ict4tn022-3010/h6-moottorix.html)  
-[h7 own module part 1](https://hanu.org/ict4tn022-3010/h7-my_module.html)  
-[h7 own module part 2](https://hanu.org/ict4tn022-3010/h7-nagios.html)  
-
-
+[h1 hello master-slave](h1-hello-master-slave.md)  
+[h2 package file-server](h2_package_file-server.md)  
+[h3 version control](h3-versionhallinta.md)  
+[h4 timeline](h4-timeline.md)  
+[h5 new command](h5-new-command.md)  
+[h6 moottorix](h6-moottorix.md)  
+[h7 own module part 1](h7-my_module.md)  
+[h7 own module part 2](h7-nagios.md)  
 
 ## own module - part 1: Automate VMware virtual server deployment with Salt
 
@@ -34,7 +31,6 @@ This approach relies on salt-cloud:
 As we have installed and configured the Salt already, we'll install salt-cloud package:  
 
 `sudo apt install salt-cloud`
-
 
 The VMware cloud module relies on pyVmoni package.
 
