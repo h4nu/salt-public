@@ -12,7 +12,7 @@
 #   aliases: |
 #       postmaster: root
 #       root: testuser
-#       testuser: russell@example.com
+#       testuser: testuser@example.com
 #   virtual: |
 #       example.com             this is a comment
 #       test1@example.com       me@example.com
